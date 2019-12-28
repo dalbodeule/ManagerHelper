@@ -1,0 +1,6 @@
+name: ManagerHelper
+version: @version@
+api-version: 1.14
+main: space.mori.managerhelper.ManagerHelper
+authors:
+  - dalbodeule
